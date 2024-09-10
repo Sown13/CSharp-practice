@@ -1,0 +1,14 @@
+D:\Learning\FPT-SEM-2\practice\cs-practice-1\bin\Debug\net8.0\cs-practice-1.exe
+D:\Learning\FPT-SEM-2\practice\cs-practice-1\bin\Debug\net8.0\cs-practice-1.deps.json
+D:\Learning\FPT-SEM-2\practice\cs-practice-1\bin\Debug\net8.0\cs-practice-1.runtimeconfig.json
+D:\Learning\FPT-SEM-2\practice\cs-practice-1\bin\Debug\net8.0\cs-practice-1.dll
+D:\Learning\FPT-SEM-2\practice\cs-practice-1\bin\Debug\net8.0\cs-practice-1.pdb
+D:\Learning\FPT-SEM-2\practice\cs-practice-1\obj\Debug\net8.0\cs-practice-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\FPT-SEM-2\practice\cs-practice-1\obj\Debug\net8.0\cs-practice-1.AssemblyInfoInputs.cache
+D:\Learning\FPT-SEM-2\practice\cs-practice-1\obj\Debug\net8.0\cs-practice-1.AssemblyInfo.cs
+D:\Learning\FPT-SEM-2\practice\cs-practice-1\obj\Debug\net8.0\cs-practice-1.csproj.CoreCompileInputs.cache
+D:\Learning\FPT-SEM-2\practice\cs-practice-1\obj\Debug\net8.0\cs-practice-1.dll
+D:\Learning\FPT-SEM-2\practice\cs-practice-1\obj\Debug\net8.0\refint\cs-practice-1.dll
+D:\Learning\FPT-SEM-2\practice\cs-practice-1\obj\Debug\net8.0\cs-practice-1.pdb
+D:\Learning\FPT-SEM-2\practice\cs-practice-1\obj\Debug\net8.0\cs-practice-1.genruntimeconfig.cache
+D:\Learning\FPT-SEM-2\practice\cs-practice-1\obj\Debug\net8.0\ref\cs-practice-1.dll
